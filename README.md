@@ -214,28 +214,6 @@ Designed and deployed a Dynamic Weather Dashboard with a fully responsive interf
 
 ---
 
-## ⬡ Coding Profiles
-
-<p align="center">
-  <a href="https://leetcode.com/sabarinath2005" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
-  </a>
-  &nbsp;
-  <a href="https://www.geeksforgeeks.org/user/sabarinath2005" target="_blank">
-    <img src="https://img.shields.io/badge/GeeksforGeeks-Profile-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="https://www.hackerrank.com/sabarinath2005" target="_blank">
-    <img src="https://img.shields.io/badge/HackerRank-Profile-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black" />
-  </a>
-  &nbsp;
-  <a href="https://www.codechef.com/users/sabarinath2005" target="_blank">
-    <img src="https://img.shields.io/badge/CodeChef-Profile-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
-  </a>
-</p>
-
----
-
 ## ⬡ GitHub Analytics
 
 <p align="center">
